@@ -112,7 +112,7 @@ AI & ML Enthusiast
 # 📌 After Pasting
 
 1. Replace:
-   `*(Add your Streamlit link here)*`
+   'https://ai-spam-detection-system-b3ygnkym9oxaheydwuenwu.streamlit.app/'
    with your actual live app URL.
 
 2. Click **Commit changes**
